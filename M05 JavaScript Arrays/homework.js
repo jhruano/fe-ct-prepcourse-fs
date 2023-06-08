@@ -249,6 +249,7 @@ function continueStatement(num) {
       array.push(suma);
     }
   }
+  
   return array;
 }
 
