@@ -77,6 +77,7 @@ function asAmirror(frase) {
       var espejo= arrayfrase[i].split("").reverse().join("");
       fraseEspejo.push(espejo)
    }
+   
    return fraseEspejo.join(" ");
 }
 
